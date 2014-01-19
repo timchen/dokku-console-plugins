@@ -61,5 +61,4 @@ case "$1" in
 EOF
   ;;
 esac
-cat
 
